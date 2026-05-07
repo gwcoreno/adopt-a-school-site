@@ -1,0 +1,469 @@
+{
+  "schools": [
+    {
+      "name": "Allison ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "515 Vargas Road, Austin, TX 78741",
+      "lat": 30.2359456,
+      "lng": -97.6908641
+    },
+    {
+      "name": "Andrews ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6801 Northeast Drive, Austin, TX 78723",
+      "lat": 30.3175696,
+      "lng": -97.6800425
+    },
+    {
+      "name": "Brown ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "7801 Guadalupe St., Austin, TX 78752",
+      "lat": 30.3450079,
+      "lng": -97.7100945
+    },
+    {
+      "name": "Cook ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1511 Cripple Creek Drive, Austin, TX 78758",
+      "lat": 30.3783193,
+      "lng": -97.7047494
+    },
+    {
+      "name": "Cunningham ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "2200 Berkeley Ave., Austin, TX 78745",
+      "lat": 30.2100717,
+      "lng": -97.8060477
+    },
+    {
+      "name": "Galindo ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "3800 S. Second St., Austin, TX 78704",
+      "lat": 30.22935858222,
+      "lng": -97.77092161503
+    },
+    {
+      "name": "Govalle ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "3601 Govalle Ave., Austin, TX 78702",
+      "lat": 30.2630496,
+      "lng": -97.6986902
+    },
+    {
+      "name": "Harris ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6105 Berkman Drive, Austin, TX 78723",
+      "lat": 30.3149572,
+      "lng": -97.6918906
+    },
+    {
+      "name": "Hart ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "8301 Furness St., Austin, TX 78753",
+      "lat": 30.342810230947,
+      "lng": -97.68968346397
+    },
+    {
+      "name": "Houston ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "5409 Ponciana Drive, Austin, TX 78744",
+      "lat": 30.1966256,
+      "lng": -97.7553506
+    },
+    {
+      "name": "Jordan ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6711 Johnny Morris Road, Austin, TX 78724",
+      "lat": 30.301208,
+      "lng": -97.646534
+    },
+    {
+      "name": "Joslin ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "4500 Manchaca Road, Austin, TX 78745",
+      "lat": 30.1685841,
+      "lng": -97.8306185
+    },
+    {
+      "name": "Kocurek ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "9800 Curlew Drive, Austin, TX 78748",
+      "lat": 30.1779314,
+      "lng": -97.835217
+    },
+    {
+      "name": "Langford ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "7601 Dixie Drive, Austin, TX 78744",
+      "lat": 30.1649072,
+      "lng": -97.7432817
+    },
+    {
+      "name": "Linder ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "2800 Metcalfe Road, Austin, TX 78741",
+      "lat": 30.2245946,
+      "lng": -97.737894
+    },
+    {
+      "name": "Maplewood ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "3808 Maplewood Ave., Austin, TX 78722",
+      "lat": 30.2930694,
+      "lng": -97.7147826
+    },
+    {
+      "name": "Menchaca ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1218 West FM 1626, Manchaca, TX 78652",
+      "lat": 30.14132,
+      "lng": -97.83343
+    },
+    {
+      "name": "Norman-Sims ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "4001 Tannehill Ln., Austin, TX 78721",
+      "lat": 30.2784383,
+      "lng": -97.6737466
+    },
+    {
+      "name": "Ortega ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1135 Garland Ave., Austin, TX 78721",
+      "lat": 30.2701099,
+      "lng": -97.6843042
+    },
+    {
+      "name": "Overton ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "7201 Colony Loop Drive, Austin, TX 78724",
+      "lat": 30.300637,
+      "lng": -97.6351776
+    },
+    {
+      "name": "Padron ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "2011 W. Rundberg Lane, Austin, TX 78758",
+      "lat": 30.3735536,
+      "lng": -97.7199141
+    },
+    {
+      "name": "Pecan Springs ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "3500 Susquehanna Ln, Austin, TX 78723",
+      "lat": 30.3146799,
+      "lng": -97.6651564
+    },
+    {
+      "name": "Perez ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "7500 S. Pleasant Valley Road, Austin, TX 78744",
+      "lat": 30.170394,
+      "lng": -97.75387
+    },
+    {
+      "name": "Pickle ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1101 Wheatley Ave., Austin, TX 78752",
+      "lat": 30.3326598,
+      "lng": -97.6937897
+    },
+    {
+      "name": "Pleasant Hill ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6405 Circle S Road, Austin, TX 78745",
+      "lat": 30.1963703,
+      "lng": -97.7755794
+    },
+    {
+      "name": "Rodriguez ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "4400 Franklin Park Drive, Austin, TX 78744",
+      "lat": 30.2004214,
+      "lng": -97.746737
+    },
+    {
+      "name": "Sanchez ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "73 San Marcos St., Austin, TX 78702",
+      "lat": 30.2574113,
+      "lng": -97.7349352
+    },
+    {
+      "name": "St. Elmo ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "600 W. St. Elmo Road, Austin, TX 78745",
+      "lat": 30.2217404,
+      "lng": -97.7734105
+    },
+    {
+      "name": "Walnut Creek ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "401 W. Braker Lane, Austin, TX 78753",
+      "lat": 30.3799397,
+      "lng": -97.6838529
+    },
+    {
+      "name": "Wooldridge ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1412 Norseman Terrace, Austin, TX 78758",
+      "lat": 30.3646072,
+      "lng": -97.7092553
+    },
+    {
+      "name": "Wooten ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1405 Wooten Drive, Austin, TX 78757",
+      "lat": 30.3546507,
+      "lng": -97.7187422
+    },
+    {
+      "name": "Zavala ES",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "310 Robert T. Martinez Jr. St., Austin, TX 78702",
+      "lat": 30.25823,
+      "lng": -97.71983
+    },
+    {
+      "name": "Bailey MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "4020 Lost Oasis Hollow, Austin, TX 78739",
+      "lat": 30.1653552,
+      "lng": -97.872505
+    },
+    {
+      "name": "Bedichek MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6800 Bill Hughes Road, Austin, TX 78745",
+      "lat": 30.195007,
+      "lng": -97.7873065
+    },
+    {
+      "name": "Dobie MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1200 E. Rundberg Lane, Austin, TX 78753",
+      "lat": 30.354103,
+      "lng": -97.68038
+    },
+    {
+      "name": "Garcia YMLA",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "7414 Johnny Morris Road, Austin, TX 78724",
+      "lat": 30.310492,
+      "lng": -97.6425915
+    },
+    {
+      "name": "Kealing MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "1607 Pennsylvania Ave., Austin, TX 78702",
+      "lat": 30.2705318,
+      "lng": -97.72148
+    },
+    {
+      "name": "Lamar MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6201 Wynona St., Austin, TX 78757",
+      "lat": 30.337853998203,
+      "lng": -97.741161802833
+    },
+    {
+      "name": "Lively MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "201 E. Mary St., Austin, TX 78704",
+      "lat": 30.2440088,
+      "lng": -97.7504948
+    },
+    {
+      "name": "Marshall MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "4401 Tilley St., Austin, TX 78723",
+      "lat": 30.2965367,
+      "lng": -97.6945088
+    },
+    {
+      "name": "Murchison MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "3700 N Hills Drive, Austin, TX 78731",
+      "lat": 30.3551084,
+      "lng": -97.7596337
+    },
+    {
+      "name": "O.Henry MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "2610 West 10th St., Austin, TX 78703",
+      "lat": 30.2862972,
+      "lng": -97.7736972
+    },
+    {
+      "name": "Sadler Means YWLA",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "6401 N. Hampton Drive, Austin, TX 78723",
+      "lat": 30.3130981,
+      "lng": -97.6804278
+    },
+    {
+      "name": "Webb MS",
+      "status": "Unfunded",
+      "district": "AISD",
+      "address": "601 E. St. Johns Ave., Austin, TX 78752",
+      "lat": 30.3431551,
+      "lng": -97.7273418
+    },
+    {
+      "name": "Baty ES",
+      "status": "Unfunded",
+      "district": "Del",
+      "address": "2101 Faro Drive, Austin, TX 78741",
+      "lat": 30.228003,
+      "lng": -97.713404
+    },
+    {
+      "name": "Collins ES",
+      "status": "Unfunded",
+      "district": "Del",
+      "address": "7609 Apogee Blvd, Austin, TX 78744",
+      "lat": 30.1530096,
+      "lng": -97.7134562
+    },
+    {
+      "name": "Del Valle ES",
+      "status": "Unfunded",
+      "district": "Del",
+      "address": "5400 Ross Rd, Del Valle, TX 78617",
+      "lat": 30.1751287,
+      "lng": -97.6213864
+    },
+    {
+      "name": "Hillcrest ES",
+      "status": "Unfunded",
+      "district": "Del",
+      "address": "6910 E William Cannon Dr, Austin, TX 78744",
+      "lat": 30.165386,
+      "lng": -97.729579
+    },
+    {
+      "name": "Dailey MS",
+      "status": "Unfunded",
+      "district": "Del",
+      "address": "14000 Westall St, Austin, TX 78725",
+      "lat": 30.2435712,
+      "lng": -97.5903364
+    },
+    {
+      "name": "Fuentes ES",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "901 Philomena Drive, Kyle, TX 78640",
+      "lat": 30.0029701,
+      "lng": -97.8610604
+    },
+    {
+      "name": "Science Hall ES",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "1510 Bebee Road, Kyle, TX 78640",
+      "lat": 30.0113112,
+      "lng": -97.8328246
+    },
+    {
+      "name": "Tom Green ES",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "1301 Old Goforth Road, Buda, TX 78610",
+      "lat": 30.065007,
+      "lng": -97.8214537
+    },
+    {
+      "name": "Uhland ES",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "2331 High Road, Uhland, TX 78640",
+      "lat": 29.9716455,
+      "lng": -97.7852765
+    },
+    {
+      "name": "McCormick MS",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "5700 Dacy Lane, Buda, TX 78610",
+      "lat": 30.0543322,
+      "lng": -97.8247346
+    },
+    {
+      "name": "Simon MS",
+      "status": "Unfunded",
+      "district": "Hays",
+      "address": "3839 E FM 150, Kyle, TX 78640",
+      "lat": 29.945058218427,
+      "lng": -97.830274717233
+    },
+    {
+      "name": "Austin Achieve ES",
+      "status": "Unfunded",
+      "district": "Austin",
+      "address": "7424 E Hwy 290 Bldg 1, Austin, TX 78723",
+      "lat": 30.3085,
+      "lng": -97.6849,
+      "approximate": true
+    },
+    {
+      "name": "Austin Achieve MS",
+      "status": "Unfunded",
+      "district": "Austin",
+      "address": "5908 Manor Rd, Austin, TX 78723",
+      "lat": 30.307431,
+      "lng": -97.680242
+    },
+    {
+      "name": "Austin Achieve Pflugerville",
+      "status": "Unfunded",
+      "district": "Austin",
+      "address": "1900 East Pfennig Lane, Pflugerville, TX 78660",
+      "lat": 30.45084487735,
+      "lng": -97.604898542484
+    }
+  ]
+}

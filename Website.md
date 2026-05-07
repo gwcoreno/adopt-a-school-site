@@ -1,0 +1,3 @@
+The Adopt-a-School Program is designed to strengthen Seedling Foundation’s relationships with community partners, corporations, and individual donors by connecting them directly with the schools and students they support. Through an annual sponsorship model, donors will 'adopt' a partner school, providing critical funding to sustain Seedling’s mentoring programs, student scholarships, and enrichment initiatives.
+
+When you adopt a school, your investment is focused and visible. You will know exactly which school community benefits from your generosity, receive regular updates on student outcomes, and see firsthand the difference your support makes.
